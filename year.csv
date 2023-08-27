@@ -1,0 +1,1653 @@
+2,Bill Gates,1,2014,58,76.0
+5,Carlos Slim Helu,2,2014,74,72.0
+8,Amancio Ortega,3,2014,77,64.0
+11,Warren Buffett,4,2014,83,58.2
+14,Larry Ellison,5,2014,69,48.0
+17,Charles Koch,6,2014,78,40.0
+18,David Koch,6,2014,73,40.0
+23,Sheldon Adelson,8,2014,80,38.0
+26,Christy Walton,9,2014,59,36.7
+30,Jim Walton,10,2014,66,34.7
+32,Liliane Bettencourt,11,2014,91,34.5
+35,Stefan Persson,12,2014,66,34.4
+38,Alice Walton,13,2014,64,34.3
+41,S. Robson Walton,14,2014,70,34.2
+44,Bernard Arnault,15,2014,64,33.5
+47,Michael Bloomberg,16,2014,72,33.0
+50,Larry Page,17,2014,40,32.3
+54,Jeff Bezos,18,2014,50,32.0
+56,Sergey Brin,19,2014,40,31.8
+59,Li Ka-shing,20,2014,85,31.0
+63,Mark Zuckerberg,21,2014,29,28.5
+65,Michele Ferrero,22,2014,88,26.5
+68,Aliko Dangote,23,2014,56,25.0
+69,Karl Albrecht,23,2014,94,25.0
+74,Carl Icahn,25,2014,78,24.5
+77,George Soros,26,2014,83,23.0
+81,David Thomson,27,2014,56,22.6
+83,Lui Che Woo,28,2014,84,22.0
+86,Dieter Schwarz,29,2014,74,21.1
+89,Prince Alwaleed Bin Talal Alsaud,30,2014,58,20.4
+95,"Forrest Mars, Jr.",31,2014,82,20.0
+96,Jacqueline Mars,31,2014,74,20.0
+97,John Mars,31,2014,77,20.0
+101,Jorge Paulo Lemann,34,2014,74,19.7
+105,Lee Shau Kee,35,2014,86,19.6
+107,Steve Ballmer,36,2014,57,19.3
+108,"Theo Albrecht, Jr.",36,2014,63,19.3
+113,Leonardo Del Vecchio,38,2014,78,19.2
+116,Len Blavatnik,39,2014,56,18.7
+120,Alisher Usmanov,40,2014,60,18.6
+121,Mukesh Ambani,40,2014,56,18.6
+125,Masayoshi Son,42,2014,56,18.4
+126,Michael Otto,42,2014,70,18.4
+127,Phil Knight,42,2014,76,18.4
+134,Tadashi Yanai,45,2014,65,17.9
+137,Gina Rinehart,46,2014,60,17.7
+141,Mikhail Fridman,47,2014,49,17.6
+143,Michael Dell,48,2014,49,17.5
+146,Susanne Klatten,49,2014,51,17.4
+150,Abigail Johnson,50,2014,52,17.3
+152,Viktor Vekselberg,51,2014,56,17.2
+155,Lakshmi Mittal,52,2014,63,16.7
+158,Vladimir Lisin,53,2014,57,16.6
+161,Cheng Yu-tung,54,2014,88,16.2
+165,Joseph Safra,55,2014,75,16.0
+167,Paul Allen,56,2014,61,15.9
+172,Leonid Mikhelson,57,2014,58,15.6
+174,Anne Cox Chambers,58,2014,94,15.5
+175,Francois Pinault,58,2014,77,15.5
+176,Iris Fontbona,58,2014,71,15.5
+184,Azim Premji,61,2014,68,15.3
+185,Gennady Timchenko,61,2014,61,15.3
+186,Mohammad Al Amoudi,61,2014,67,15.3
+194,Wang Jianlin,64,2014,59,15.1
+196,Charles Ergen,65,2014,61,15.0
+198,Stefan Quandt,66,2014,47,14.9
+200,German Larrea Mota Velasco,67,2014,60,14.7
+203,Harold Hamm,68,2014,68,14.6
+206,Donald Bren,69,2014,81,14.4
+207,Ray Dalio,69,2014,64,14.4
+215,Georg Schaeffler,71,2014,49,14.3
+217,Luis Carlos Sarmiento,72,2014,81,14.2
+219,Laurene Powell Jobs,73,2014,50,14.0
+220,Ronald Perelman,73,2014,71,14.0
+221,Serge Dassault,73,2014,88,14.0
+228,John Fredriksen,76,2014,69,13.6
+229,Vagit Alekperov,76,2014,63,13.6
+233,John Paulson,78,2014,58,13.5
+234,Rupert Murdoch,78,2014,82,13.5
+240,Ma Huateng,80,2014,42,13.4
+242,Gerald Cavendish Grosvenor,81,2014,62,13.0
+252,Dilip Shanghvi,82,2014,58,12.8
+253,Jack Taylor,82,2014,91,12.8
+254,Johanna Quandt,82,2014,87,12.8
+255,Pallonji Mistry,82,2014,84,12.8
+260,Thomas and Raymond Kwok,86,2014,0,12.6
+261,Vladimir Potanin,86,2014,53,12.6
+264,James Simons,88,2014,75,12.5
+265,Rinat Akhmetov,88,2014,47,12.5
+270,Alberto Bailleres Gonzalez,90,2014,82,12.4
+272,Robin Li,91,2014,45,12.1
+277,Ernesto Bertarelli,92,2014,48,12.0
+278,Hans Rausing,92,2014,87,12.0
+281,Zong Qinghou,94,2014,68,11.6
+284,David & Simon Reuben,95,2014,71,11.5
+285,Robert Kuok,95,2014,90,11.5
+290,Andrey Melnichenko,97,2014,41,11.4
+291,Dhanin Chearavanont,97,2014,74,11.4
+292,Henry Sy,97,2014,89,11.4
+302,Ananda Krishnan,100,2014,75,11.3
+303,German Khan,100,2014,52,11.3
+306,Alejandro Santo Domingo Davila,102,2014,37,11.1
+307,Lee Kun-Hee,102,2014,72,11.1
+308,Miuccia Prada,102,2014,64,11.1
+309,Shiv Nadar,102,2014,68,11.1
+319,Petr Kellner,106,2014,49,11.0
+320,Robert & Philip Ng,106,2014,0,11.0
+321,Steve Cohen,106,2014,58,11.0
+331,Andrew Beal,109,2014,61,10.9
+332,Mikhail Prokhorov,109,2014,48,10.9
+335,Alexei Mordashov,111,2014,48,10.5
+336,Hansjoerg Wyss,111,2014,79,10.5
+339,Charlene de Carvalho-Heineken,113,2014,59,10.4
+340,Klaus-Michael Kuehne,113,2014,76,10.4
+341,Philip Anschutz,113,2014,74,10.4
+342,Stefano Pessina,113,2014,72,10.4
+356,Li Hejun,117,2014,46,10.3
+357,Sergei Galitsky,117,2014,46,10.3
+360,Kjeld Kirk Kristiansen,119,2014,66,10.2
+361,Marcel Herrmann Telles,119,2014,64,10.2
+364,Charles Butt,121,2014,76,10.1
+366,Carrie Perrodo,122,2014,63,10.0
+367,David Tepper,122,2014,56,10.0
+368,George Kaiser,122,2014,71,10.0
+369,Hinduja Brothers,122,2014,0,10.0
+370,Jack Ma,122,2014,49,10.0
+371,Patrick Soon-Shiong,122,2014,62,10.0
+372,Stephen Schwarzman,122,2014,67,10.0
+386,Giorgio Armani,129,2014,79,9.9
+396,Richard Kinder,130,2014,69,9.5
+397,Tsai Eng-Meng,130,2014,57,9.5
+400,"Edward Johnson, III.",132,2014,83,9.3
+401,Eric Schmidt,132,2014,58,9.3
+402,Hiroshi Mikitani,132,2014,49,9.3
+403,"Samuel Newhouse, Jr.",132,2014,86,9.3
+408,Dietrich Mateschitz,136,2014,69,9.2
+410,Joao Roberto Marinho,137,2014,60,9.1
+411,Jose Roberto Marinho,137,2014,58,9.1
+412,Roberto Marinho,137,2014,66,9.1
+413,Roman Abramovich,137,2014,47,9.1
+426,Alain Wertheimer,141,2014,65,9.0
+427,Charoen Sirivadhanabhakdi,141,2014,69,9.0
+428,Gerard Wertheimer,141,2014,63,9.0
+429,Silvio Berlusconi,141,2014,77,9.0
+430,Vladimir Yevtushenkov,141,2014,65,9.0
+441,Carlos Alberto Sicupira,146,2014,66,8.9
+443,Alexei Kuzmichev,147,2014,51,8.8
+444,Dmitry Rybolovlev,147,2014,47,8.8
+445,Elaine Marshall,147,2014,71,8.8
+446,Hasso Plattner,147,2014,70,8.8
+447,Thomas Peterffy,147,2014,69,8.8
+464,Ludwig Merckle,152,2014,49,8.6
+466,Antonia Johnson,153,2014,70,8.5
+467,Donald Newhouse,153,2014,84,8.5
+468,Galen Weston,153,2014,73,8.5
+469,Hank & Doug Meijer,153,2014,0,8.5
+470,Michael Kadoorie,153,2014,72,8.5
+476,Elon Musk,158,2014,42,8.4
+477,Joseph Lau,158,2014,62,8.4
+480,August von Finck,160,2014,83,8.3
+481,Ricardo Salinas Pliego,160,2014,58,8.3
+489,Andrei Skoch,162,2014,48,8.2
+490,Pierre Omidyar,162,2014,46,8.2
+491,Xavier Niel,162,2014,46,8.2
+495,Margarita Louis-Dreyfus,165,2014,50,8.1
+497,Pierre Castel,166,2014,87,8.0
+506,Emmanuel Besnier,167,2014,43,7.9
+508,Blair Parry-Okeden,168,2014,63,7.7
+509,David Duffield,168,2014,73,7.7
+510,Jean-Claude Decaux,168,2014,76,7.7
+511,Jim Kennedy,168,2014,66,7.7
+512,Reinhold Wuerth,168,2014,78,7.7
+518,Jacques Servier,173,2014,92,7.6
+519,Johann Rupert,173,2014,63,7.6
+520,R Budi Hartono,173,2014,73,7.6
+521,Tsai Wan-Tsai,173,2014,84,7.6
+531,Charles Johnson,177,2014,81,7.5
+532,James Goodnight,177,2014,71,7.5
+533,John Malone,177,2014,72,7.5
+534,"John Menard, Jr.",177,2014,74,7.5
+535,Klaus Tschira,177,2014,73,7.5
+536,Leonard Lauder,177,2014,80,7.5
+558,Vincent Bollore,183,2014,61,7.4
+560,Jim Pattison,184,2014,85,7.3
+561,Michael Hartono,184,2014,74,7.3
+564,Augusto & Giorgio Perfetti,186,2014,0,7.2
+565,Heinz Hermann Thiele,186,2014,72,7.2
+566,Johann Graf,186,2014,67,7.2
+567,Peter Woo,186,2014,68,7.2
+572,He Xiangjian,190,2014,71,7.1
+574,Dietmar Hopp,191,2014,73,7.0
+575,Eyal Ofer,191,2014,63,7.0
+576,Graeme Hart,191,2014,58,7.0
+577,Kumar Birla,191,2014,46,7.0
+578,Ralph Lauren,191,2014,74,7.0
+588,Charles Cadogan,196,2014,76,6.9
+589,Eli Broad,196,2014,80,6.9
+590,Richard DeVos,196,2014,88,6.9
+591,Suleiman Kerimov,196,2014,47,6.9
+592,Wei Jianjun,196,2014,50,6.9
+593,Yang Huiyan,196,2014,32,6.9
+611,Chung Mong-Koo,202,2014,75,6.8
+612,Dustin Moskovitz,202,2014,29,6.8
+613,Jan Koum,202,2014,38,6.8
+617,Nassef Sawiris,205,2014,53,6.7
+618,Nicky Oppenheimer,205,2014,68,6.7
+621,Takemitsu Takizaki,207,2014,68,6.6
+623,James Packer,208,2014,46,6.5
+624,Leonid Fedun,208,2014,57,6.5
+625,Micky Arison,208,2014,64,6.5
+626,Oleg Deripaska,208,2014,46,6.5
+644,Eva Gonda Rivera,212,2014,0,6.4
+645,Pansy Ho,212,2014,51,6.4
+646,Quek Leng Chan,212,2014,70,6.4
+650,Dannine Avara,215,2014,50,6.3
+651,"Herbert Kohler, Jr.",215,2014,75,6.3
+652,Ivan Glasenberg,215,2014,57,6.3
+653,Milane Frantz,215,2014,44,6.3
+654,Paolo & Gianfelice Mario Rocca,215,2014,0,6.3
+655,Patrick Drahi,215,2014,50,6.3
+656,Randa Williams,215,2014,52,6.3
+657,Scott Duncan,215,2014,31,6.3
+679,"Rupert Johnson, Jr.",224,2014,72,6.2
+680,S. Truett Cathy,224,2014,92,6.2
+681,Sumner Redstone,224,2014,90,6.2
+685,David Geffen,227,2014,71,6.1
+686,Iskander Makhmudov,227,2014,50,6.1
+687,Lucio Tan,227,2014,79,6.1
+688,Pyotr Aven,227,2014,58,6.1
+689,Richard LeFrak,227,2014,68,6.1
+690,Sandra Ortega Mera,227,2014,45,6.1
+691,"Thomas Frist, Jr.",227,2014,75,6.1
+716,Chan Laiwa,234,2014,73,6.0
+717,Denis O'Brien,234,2014,55,6.0
+718,Filaret Galchev,234,2014,50,6.0
+719,Ira Rennert,234,2014,79,6.0
+720,James Irving,234,2014,85,6.0
+721,Patrizio Bertelli,234,2014,68,6.0
+728,Charles Schwab,240,2014,76,5.8
+729,Dennis Washington,240,2014,79,5.8
+730,Gayle Cook,240,2014,80,5.8
+731,Leon Black,240,2014,62,5.8
+736,Hui Ka Yan,244,2014,55,5.7
+737,Hui Wing Mau,244,2014,63,5.7
+738,Idan Ofer,244,2014,58,5.7
+739,Isak Andic,244,2014,60,5.7
+740,Jorn Rausing,244,2014,54,5.7
+741,Leslie Wexner,244,2014,76,5.7
+742,Patrick McGovern,244,2014,76,5.7
+743,Sunil Mittal,244,2014,56,5.7
+774,Ray Lee Hunt,253,2014,71,5.6
+775,Stanley Kroenke,253,2014,66,5.6
+776,Teh Hong Piow,253,2014,83,5.6
+780,Arthur Irving,256,2014,84,5.5
+781,Bruno Schroder,256,2014,81,5.5
+782,Carlos and Alejandro Bulgheroni,256,2014,0,5.5
+783,Jeffery Hildebrand,256,2014,54,5.5
+784,Liu Yongxing,256,2014,65,5.5
+785,Michael Ashley,256,2014,49,5.5
+786,Thomas Schmidheiny,256,2014,68,5.5
+794,Melker Schorling,263,2014,66,5.4
+795,Sergei Popov,263,2014,42,5.4
+796,Stephen Ross,263,2014,73,5.4
+797,Terry Gou,263,2014,63,5.4
+802,Americo Amorim,267,2014,79,5.3
+803,Anders Holch Povlsen,267,2014,41,5.3
+804,Stef Wertheimer,267,2014,87,5.3
+808,Andrew Forrest,270,2014,52,5.2
+809,Bidzina Ivanishvili,270,2014,58,5.2
+810,Karl-Heinz Kipp,270,2014,90,5.2
+811,Ken Griffin,270,2014,45,5.2
+812,Kwee brothers,270,2014,69,5.2
+813,Maria Asuncion Aramburuzabala,270,2014,50,5.2
+814,Wee Cho Yaw,270,2014,85,5.2
+843,Finn Rausing,278,2014,59,5.1
+844,Jacqueline Desmarais,278,2014,85,5.1
+845,Kirsten Rausing,278,2014,61,5.1
+849,Anil Ambani,281,2014,54,5.0
+850,Antonio Del Valle Ruiz,281,2014,75,5.0
+851,Bruce Halle,281,2014,83,5.0
+852,David Green,281,2014,72,5.0
+853,Frederik Paulsen,281,2014,63,5.0
+854,George Roberts,281,2014,70,5.0
+855,Gordon Moore,281,2014,85,5.0
+856,Harry Triguboff,281,2014,81,5.0
+857,Henry Kravis,281,2014,70,5.0
+858,Joe Lewis,281,2014,77,5.0
+859,Micky Jagtiani,281,2014,62,5.0
+860,Richard Branson,281,2014,63,5.0
+861,Stein Erik Hagen,281,2014,57,5.0
+862,Walter Kwok,281,2014,63,5.0
+897,Albert Frere,295,2014,88,4.9
+898,Cyrus Poonawalla,295,2014,72,4.9
+899,Erivan Haub,295,2014,81,4.9
+900,Frits Goldschmeding,295,2014,80,4.9
+901,George Lucas,295,2014,69,4.9
+902,Heinz-Horst Deichmann,295,2014,87,4.9
+903,Kunio Busujima,295,2014,88,4.9
+904,Robert Rowling,295,2014,60,4.9
+905,Savitri Jindal,295,2014,63,4.9
+906,Shashi and Ravi Ruia,295,2014,0,4.9
+917,Abdulla bin Ahmad Al Ghurair,305,2014,0,4.8
+918,Ann Walton Kroenke,305,2014,65,4.8
+919,Bruce Kovner,305,2014,69,4.8
+920,Daniel Ziff,305,2014,42,4.8
+921,Dirk Ziff,305,2014,49,4.8
+922,Gwendolyn Sontheim Meyer,305,2014,52,4.8
+923,Juan Roig,305,2014,64,4.8
+924,Karl Wlaschek,305,2014,96,4.8
+925,Laurence Graff,305,2014,75,4.8
+926,Liselott Persson,305,2014,64,4.8
+927,Pauline MacMillan Keinath,305,2014,80,4.8
+928,Robert Ziff,305,2014,47,4.8
+929,Whitney MacMillan,305,2014,85,4.8
+930,Zhang Zhidong,305,2014,42,4.8
+969,Andrew Tan,319,2014,61,4.7
+970,Arnon Milchan,319,2014,69,4.7
+971,Frank Lowy,319,2014,83,4.7
+972,Horst Paulmann,319,2014,79,4.7
+973,Sergio Mantegazza,319,2014,86,4.7
+974,Shari Arison,319,2014,56,4.7
+981,Diane Hendricks,325,2014,67,4.6
+982,Mike Adenuga,325,2014,60,4.6
+983,Pierre Bellon,325,2014,84,4.6
+987,David Sun,328,2014,62,4.5
+988,Dieter Schnabel,328,2014,68,4.5
+989,James Dyson,328,2014,66,4.5
+990,Jay Y. Lee,328,2014,45,4.5
+991,John A. Sobrato,328,2014,74,4.5
+992,John Tu,328,2014,73,4.5
+993,Kirk Kerkorian,328,2014,96,4.5
+994,Lynn Schusterman,328,2014,75,4.5
+995,Majid Al Futtaim,328,2014,0,4.5
+996,Michael Herz,328,2014,70,4.5
+997,Trevor Rees-Jones,328,2014,62,4.5
+998,Wolfgang Herz,328,2014,63,4.5
+1038,Barbara Carlson Gage,340,2014,71,4.4
+1039,Guenter Herz & Family,340,2014,73,4.4
+1040,Kelcy Warren,340,2014,58,4.4
+1041,Luo Jye,340,2014,88,4.4
+1042,Marilyn Carlson Nelson,340,2014,74,4.4
+1048,Dan Olsson,345,2014,67,4.3
+1049,Emanuele (Lino) Saputo,345,2014,77,4.3
+1050,Guo Guangchang,345,2014,47,4.3
+1051,Lee Shin Cheng,345,2014,74,4.3
+1052,Liang Wengen,345,2014,57,4.3
+1053,"Paul Tudor Jones, II.",345,2014,59,4.3
+1054,Sam Zell,345,2014,72,4.3
+1055,Samvel Karapetyan,345,2014,48,4.3
+1056,Wang Chuanfu,345,2014,48,4.3
+1066,Akira Mori,354,2014,77,4.2
+1067,Bernard Ecclestone,354,2014,83,4.2
+1068,Elizabeth Mohn,354,2014,73,4.2
+1069,Enrique Razon,354,2014,54,4.2
+1070,Friede Springer,354,2014,71,4.2
+1071,Jeronimo Arango,354,2014,88,4.2
+1072,Leonard Stern,354,2014,75,4.2
+1073,Lin Rong San,354,2014,74,4.2
+1074,Malcolm Glazer,354,2014,85,4.2
+1075,Ralph Dommermuth,354,2014,50,4.2
+1076,Ted Lerner,354,2014,88,4.2
+1077,Wang Wenyin,354,2014,46,4.2
+1078,William Ding,354,2014,42,4.2
+1116,Anthony Bamford,367,2014,68,4.1
+1117,Barry Lam,367,2014,64,4.1
+1118,Beny Steinmetz,367,2014,57,4.1
+1119,Eduardo Saverin,367,2014,31,4.1
+1120,Francisco Ivens de Sa Dias Branco,367,2014,77,4.1
+1121,Ingvar Kamprad,367,2014,87,4.1
+1122,Nancy Walton Laurie,367,2014,62,4.1
+1123,Shahid Khan,367,2014,63,4.1
+1132,Arkady Rotenberg,375,2014,62,4.0
+1133,Bertil Hult,375,2014,73,4.0
+1134,Chairul Tanjung,375,2014,51,4.0
+1135,Curt Engelhorn,375,2014,87,4.0
+1136,David & Frederick Barclay,375,2014,80,4.0
+1137,Erich Kellerhals,375,2014,75,4.0
+1138,Gustaf Douglas,375,2014,76,4.0
+1139,Gustavo Cisneros,375,2014,68,4.0
+1140,John Morris,375,2014,65,4.0
+1141,Lars Larsen,375,2014,65,4.0
+1142,Lei Jun,375,2014,44,4.0
+1143,Randal Kirk,375,2014,60,4.0
+1144,Wang Wei,375,2014,0,4.0
+1192,Bernard (Barry) Sherman,388,2014,72,3.9
+1193,Daniel Och,388,2014,53,3.9
+1194,Donald Trump,388,2014,67,3.9
+1195,Heinz-Georg Baus,388,2014,80,3.9
+1196,"John Gokongwei, Jr.",388,2014,86,3.9
+1197,Martha Ingram,388,2014,78,3.9
+1198,Riley Bechtel,388,2014,61,3.9
+1199,"Stephen Bechtel, Jr.",388,2014,88,3.9
+1208,Alain Merieux,396,2014,76,3.8
+1209,Alexander Abramov,396,2014,55,3.8
+1210,Andreas von Bechtolsheim,396,2014,58,3.8
+1211,Jeffrey Skoll,396,2014,49,3.8
+1212,Mark Shoen,396,2014,62,3.8
+1213,Mitchell Rales,396,2014,57,3.8
+1214,Odd Reitan,396,2014,62,3.8
+1215,Peter Hargreaves,396,2014,67,3.8
+1216,Steve Wynn,396,2014,72,3.8
+1217,Uday Kotak,396,2014,54,3.8
+1218,Walter Faria,396,2014,58,3.8
+1219,William Koch,396,2014,73,3.8
+1232,Aloys Wobben,408,2014,62,3.7
+1233,Axel Oberwelland,408,2014,47,3.7
+1234,Charles Dolan,408,2014,87,3.7
+1235,Daniel Gilbert,408,2014,52,3.7
+1236,Gong Hongjia,408,2014,49,3.7
+1237,Guenther Fielmann,408,2014,74,3.7
+1238,Igor Kesaev,408,2014,47,3.7
+1239,Isabel dos Santos,408,2014,40,3.7
+1240,Jiang Bin,408,2014,47,3.7
+1241,John Sall,408,2014,65,3.7
+1242,Joseph Tsai,408,2014,50,3.7
+1243,Karen Pritzker,408,2014,56,3.7
+1244,Martin & Olivier Bouygues,408,2014,0,3.7
+1245,Michael Stoschek,408,2014,66,3.7
+1246,Murat Ulker,408,2014,54,3.7
+1247,Nathan Kirsh,408,2014,82,3.7
+1248,Niels Peter Louis-Hansen,408,2014,66,3.7
+1249,Ronald Lauder,408,2014,70,3.7
+1250,Wu Yajun,408,2014,50,3.7
+1251,Zhang Jindong,408,2014,50,3.7
+1252,Zhang Xin,408,2014,48,3.7
+1299,Vanich Chaiyawan,429,2014,0,3.7
+1300,David Shaw,430,2014,62,3.6
+1301,God Nisanov,430,2014,41,3.6
+1302,Ian & Richard Livingstone,430,2014,0,3.6
+1303,J. Christopher Reyes,430,2014,60,3.6
+1304,Jan Kulczyk,430,2014,64,3.6
+1305,Jerry Speyer,430,2014,73,3.6
+1306,Jude Reyes,430,2014,58,3.6
+1307,Maria-Elisabeth Schaeffler,430,2014,72,3.6
+1308,Michael Platt,430,2014,45,3.6
+1309,Reid Hoffman,430,2014,46,3.6
+1310,Sheldon Solow,430,2014,85,3.6
+1311,Steven Rales,430,2014,62,3.6
+1312,Steven Udvar-Hazy,430,2014,68,3.6
+1313,Zarakh Iliev,430,2014,47,3.6
+1314,Zhang Shiping,430,2014,67,3.6
+1315,Adi Godrej,446,2014,71,3.5
+1316,Andreas Struengmann,446,2014,64,3.5
+1317,Bernard Marcus,446,2014,84,3.5
+1318,Evan Williams,446,2014,41,3.5
+1319,George Bishop,446,2014,77,3.5
+1320,"H. Ross Perot, Sr.",446,2014,83,3.5
+1321,Jamshyd Godrej,446,2014,65,3.5
+1322,Keiichiro Takahara,446,2014,82,3.5
+1323,Leon G. Cooperman,446,2014,70,3.5
+1324,Lorenzo Mendoza,446,2014,48,3.5
+1325,Lu Guanqiu,446,2014,69,3.5
+1326,Masatoshi Ito,446,2014,89,3.5
+1327,Prince Sultan bin Mohammed bin Saud Al Kabeer,446,2014,60,3.5
+1328,Rosa Anna Magno Garavoglia,446,2014,0,3.5
+1329,Sri Prakash Lohia,446,2014,61,3.5
+1330,Thomas Struengmann,446,2014,64,3.5
+1331,Yvonne Bauer,446,2014,36,3.5
+1332,Zygmunt Solorz-Zak,446,2014,57,3.5
+1371,Andrei Guriev,466,2014,53,3.4
+1372,Chung Eui-Sun,466,2014,43,3.4
+1373,Daniela Herz,466,2014,60,3.4
+1374,"Edward Roski, Jr.",466,2014,75,3.4
+1375,Fredrik Lundberg,466,2014,62,3.4
+1376,Haim Saban,466,2014,69,3.4
+1377,Han Chang-Woo,466,2014,83,3.4
+1378,Jim Davis,466,2014,70,3.4
+1379,John Doerr,466,2014,62,3.4
+1380,John Gandel,466,2014,79,3.4
+1381,Lin Yu-lin,466,2014,78,3.4
+1382,Rafael Del Pino y Calvo-Sotelo,466,2014,55,3.4
+1383,Ronda Stryker,466,2014,59,3.4
+1384,Steven Spielberg,466,2014,67,3.4
+1385,Sun Guangxin,466,2014,51,3.4
+1386,Tamara Gustavson,466,2014,52,3.4
+1387,Wolfgang Marguerre,466,2014,73,3.4
+1388,Aloysio de Andrade Faria,483,2014,93,3.3
+1389,Antti Herlin,483,2014,57,3.3
+1390,Clayton Riddell,483,2014,76,3.3
+1391,Daryl Katz,483,2014,52,3.3
+1392,David Consunji,483,2014,92,3.3
+1393,Doris Fisher,483,2014,82,3.3
+1394,Francis Choi,483,2014,66,3.3
+1395,Fu Liquan,483,2014,46,3.3
+1396,Israel Englander,483,2014,65,3.3
+1397,Jean Pierre Cayard,483,2014,71,3.3
+1398,Marc Benioff,483,2014,49,3.3
+1399,Matthias Reimann-Andersen,483,2014,48,3.3
+1400,Mikhail Gutseriev,483,2014,55,3.3
+1401,Otto Happel,483,2014,66,3.3
+1402,Phillip Frost,483,2014,77,3.3
+1403,Renate Reimann-Haas,483,2014,62,3.3
+1404,Renzo Rosso,483,2014,58,3.3
+1405,Samuel Yin,483,2014,63,3.3
+1406,Sarik Tara,483,2014,83,3.3
+1407,Stefan Reimann-Andersen,483,2014,50,3.3
+1408,Stephan Schmidheiny,483,2014,66,3.3
+1409,Terrence Pegula,483,2014,63,3.3
+1410,Wolfgang Reimann,483,2014,61,3.3
+1460,"Austen Cargill, II.",506,2014,63,3.2
+1461,Christoffel Wiese,506,2014,72,3.2
+1462,Desh Bandhu Gupta,506,2014,76,3.2
+1463,Frederick Smith,506,2014,69,3.2
+1464,George Lindemann,506,2014,77,3.2
+1465,Gianluigi Aponte,506,2014,0,3.2
+1466,Heidi Horten,506,2014,73,3.2
+1467,Issad Rebrab,506,2014,70,3.2
+1468,"James Cargill, II.",506,2014,64,3.2
+1469,"Julian Robertson, Jr.",506,2014,82,3.2
+1470,Liu Yonghao,506,2014,62,3.2
+1471,Lu Xiangyang,506,2014,51,3.2
+1472,Marianne Liebmann,506,2014,60,3.2
+1473,Rafaela Aponte,506,2014,0,3.2
+1474,Spiro Latsis,506,2014,67,3.2
+1475,Victor Pinchuk,506,2014,53,3.2
+1476,Alexander Svetakov,520,2014,46,3.1
+1477,Andre Esteves,520,2014,45,3.1
+1478,Anthony Pritzker,520,2014,53,3.1
+1479,Antonio Ermirio de Moraes,520,2014,85,3.1
+1480,Archie Aldis Emmerson,520,2014,84,3.1
+1481,Daniel D'Aniello,520,2014,67,3.1
+1482,David Azrieli,520,2014,91,3.1
+1483,David Rubenstein,520,2014,64,3.1
+1484,Eddie & Sol Zakay,520,2014,63,3.1
+1485,Ermirio Pereira de Moraes,520,2014,81,3.1
+1486,Hans Peter Wild,520,2014,72,3.1
+1487,Isaac Perlmutter,520,2014,71,3.1
+1488,James Jannard,520,2014,64,3.1
+1489,Jay Robert (J.B.) Pritzker,520,2014,49,3.1
+1490,"Jeremy Jacobs, Sr.",520,2014,74,3.1
+1491,Judy Faulkner,520,2014,70,3.1
+1492,Maria Helena Moraes Scripilliti,520,2014,83,3.1
+1493,Mohamed Mansour,520,2014,66,3.1
+1494,Mohammed Al Issa,520,2014,89,3.1
+1495,Najib Mikati,520,2014,58,3.1
+1496,Peter Kellogg,520,2014,71,3.1
+1497,Roger Wang,520,2014,65,3.1
+1498,Shi Yuzhu,520,2014,51,3.1
+1499,Stanley Druckenmiller,520,2014,60,3.1
+1500,Stelios Haji-Ioannou,520,2014,47,3.1
+1501,Syed Mokhtar AlBukhary,520,2014,62,3.1
+1502,Taha Mikati,520,2014,69,3.1
+1503,Theo Mueller,520,2014,74,3.1
+1504,Wang Yung-Tsai,520,2014,93,3.1
+1505,"William Conway, Jr.",520,2014,64,3.1
+1506,Yitzhak Tshuva,520,2014,65,3.1
+1507,Alexander Nesis,551,2014,51,3.0
+1508,"Amos Hostetter, Jr.",551,2014,77,3.0
+1509,Anthony Pratt,551,2014,53,3.0
+1510,Brian Acton,551,2014,42,3.0
+1511,Edward Lampert,551,2014,51,3.0
+1512,Fred DeLuca,551,2014,66,3.0
+1513,Friedhelm Loh,551,2014,67,3.0
+1514,H. Fisk Johnson,551,2014,55,3.0
+1515,Harry Stine,551,2014,72,3.0
+1516,Helen Johnson-Leipold,551,2014,57,3.0
+1517,Husnu Ozyegin,551,2014,69,3.0
+1518,Imogene Powers Johnson,551,2014,84,3.0
+1519,James Leprino,551,2014,76,3.0
+1520,Jerry Jones,551,2014,71,3.0
+1521,John Catsimatidis,551,2014,65,3.0
+1522,John Paul DeJoria,551,2014,70,3.0
+1523,Kerr Neilson,551,2014,64,3.0
+1524,Kushal Pal Singh,551,2014,82,3.0
+1525,Lawrence Ho,551,2014,37,3.0
+1526,Lu Zhiqiang,551,2014,61,3.0
+1527,Michel Leclercq,551,2014,74,3.0
+1528,Paul Ramsay,551,2014,78,3.0
+1529,Peter Buck,551,2014,83,3.0
+1530,"Robert Rich, Jr.",551,2014,73,3.0
+1531,S. Curtis Johnson,551,2014,58,3.0
+1532,Samuel Tak Lee,551,2014,74,3.0
+1533,Tang Yiu,551,2014,80,3.0
+1534,Wang Yusuo,551,2014,49,3.0
+1535,Winnie Johnson-Marquart,551,2014,54,3.0
+1536,Anil Agarwal,580,2014,60,2.9
+1537,Carlo Benetton,580,2014,70,2.9
+1538,David Filo,580,2014,47,2.9
+1539,"David Rockefeller, Sr.",580,2014,98,2.9
+1540,Do Won Chang,580,2014,0,2.9
+1541,Farhad Moshiri,580,2014,58,2.9
+1542,Fernando Roberto Moreira Salles,580,2014,67,2.9
+1543,Gilberto Benetton,580,2014,72,2.9
+1544,Giuliana Benetton,580,2014,76,2.9
+1545,Herbert Louis,580,2014,85,2.9
+1546,Igor Olenicoff,580,2014,71,2.9
+1547,Jaime Gilinski Bacal,580,2014,56,2.9
+1548,Jin Sook Chang,580,2014,0,2.9
+1549,Joao Moreira Salles,580,2014,52,2.9
+1550,John Arnold,580,2014,39,2.9
+1551,John Fisher,580,2014,52,2.9
+1552,Josephine Louis,580,2014,83,2.9
+1553,Joshua Harris,580,2014,49,2.9
+1554,Luciano Benetton,580,2014,78,2.9
+1555,Magdalena Martullo-Blocher,580,2014,45,2.9
+1556,Marc Rowan,580,2014,52,2.9
+1557,Michael Pieper,580,2014,68,2.9
+1558,Michael Ying,580,2014,64,2.9
+1559,Oprah Winfrey,580,2014,60,2.9
+1560,Pedro Moreira Salles,580,2014,54,2.9
+1561,Rahel Blocher,580,2014,38,2.9
+1562,Robert Kraft,580,2014,72,2.9
+1563,Thomas Pritzker,580,2014,63,2.9
+1564,Tom Gores,580,2014,49,2.9
+1565,"Walter Scott, Jr.",580,2014,82,2.9
+1566,Walther Moreira Salles Junior,580,2014,57,2.9
+1567,Abilio dos Santos Diniz,609,2014,77,2.8
+1568,Alexandra Schorghuber,609,2014,55,2.8
+1569,Alexandre Soares dos Santos,609,2014,79,2.8
+1570,Alfred Taubman,609,2014,90,2.8
+1571,Angela Leong,609,2014,52,2.8
+1572,Bernard Broermann,609,2014,70,2.8
+1573,Chee Chen Tung,609,2014,72,2.8
+1574,Dirk Rossmann,609,2014,67,2.8
+1575,"Edward DeBartolo, Jr.",609,2014,67,2.8
+1576,Erman Ilicak,609,2014,46,2.8
+1577,Gautam Adani,609,2014,51,2.8
+1578,Huang Rulun,609,2014,62,2.8
+1579,Joan Tisch,609,2014,88,2.8
+1580,John Caudwell,609,2014,61,2.8
+1581,Krit Ratanarak,609,2014,67,2.8
+1582,Leandro Rizzuto,609,2014,75,2.8
+1583,Mary Alice Dorrance Malone,609,2014,64,2.8
+1584,Masahiro Miki,609,2014,58,2.8
+1585,Michael & Rainer Schmidt-Ruthenbeck,609,2014,0,2.8
+1586,Michael Moritz,609,2014,59,2.8
+1587,Naguib Sawiris,609,2014,59,2.8
+1588,Othman Benjelloun,609,2014,81,2.8
+1589,Peter Sondakh,609,2014,62,2.8
+1590,Philippe Foriel-Destezet,609,2014,78,2.8
+1591,Robert Bass,609,2014,66,2.8
+1592,Saif Al Ghurair,609,2014,0,2.8
+1593,Suh Kyung-Bae,609,2014,51,2.8
+1594,Viktor Rashnikov,609,2014,65,2.8
+1595,W. Herbert Hunt,609,2014,85,2.8
+1596,"Wilbur Ross, Jr.",609,2014,76,2.8
+1597,Yang Kai,609,2014,57,2.8
+1598,Ziyad Manasir,609,2014,48,2.8
+1599,Richard Chandler,641,2014,55,2.8
+1600,Dagmar Dolby,642,2014,72,2.7
+1601,David Bonderman,642,2014,71,2.7
+1602,Elaine Wynn,642,2014,70,2.7
+1603,Eva Maria Bucher-Haefner,642,2014,57,2.7
+1604,Hanni Toosbuy Kasprzak,642,2014,56,2.7
+1605,Jean-Michel Besnier,642,2014,46,2.7
+1606,Jeff Sutton,642,2014,54,2.7
+1607,Johan Johannson,642,2014,47,2.7
+1608,Law Kar Po,642,2014,66,2.7
+1609,Liu Qiangdong,642,2014,39,2.7
+1610,Marie Besnier Beauvalot,642,2014,33,2.7
+1611,Michael Rubin,642,2014,41,2.7
+1612,Miguel Krigsner,642,2014,64,2.7
+1613,Patrice Motsepe,642,2014,52,2.7
+1614,Qiu Guanghe,642,2014,62,2.7
+1615,Robert Pera,642,2014,35,2.7
+1616,Ron Burkle,642,2014,61,2.7
+1617,Tong Jinquan,642,2014,59,2.7
+1618,Ye Chenghai,642,2014,70,2.7
+1619,Yeoh Tiong Lay,642,2014,84,2.7
+1620,A. Jerrold Perenchio,663,2014,83,2.6
+1621,Anita Zucker,663,2014,62,2.6
+1622,Cristina Green,663,2014,0,2.6
+1623,Daniel Mate,663,2014,50,2.6
+1624,Danil Khachaturov,663,2014,42,2.6
+1625,Edson de Godoy Bueno,663,2014,70,2.6
+1626,Emilio Azcarraga Jean,663,2014,46,2.6
+1627,Helmut Sohmen,663,2014,74,2.6
+1628,"Herbert Allen, Jr.",663,2014,74,2.6
+1629,Hui Lin Chit,663,2014,61,2.6
+1630,Jason Chang,663,2014,69,2.6
+1631,Maria Luisa Solari Falabella,663,2014,73,2.6
+1632,Mark Cuban,663,2014,55,2.6
+1633,Martin Viessmann,663,2014,60,2.6
+1634,Pan Zhengmin,663,2014,44,2.6
+1635,Patrick Lee,663,2014,72,2.6
+1636,Philip Green,663,2014,0,2.6
+1637,Reinhold Schmieding,663,2014,59,2.6
+1638,Richard Rainwater,663,2014,69,2.6
+1639,Sean Parker,663,2014,34,2.6
+1640,Sze Man Bok,663,2014,64,2.6
+1641,Torbjorn Tornqvist,663,2014,60,2.6
+1642,Ty Warner,663,2014,69,2.6
+1643,Vasily Anisimov,663,2014,62,2.6
+1644,Vladimir Bogdanov,663,2014,62,2.6
+1645,Yasumitsu Shigeta,663,2014,49,2.6
+1646,Abdulla Al Futtaim,687,2014,0,2.5
+1647,Aristotelis Mistakidis,687,2014,52,2.5
+1648,Belmiro de Azevedo,687,2014,75,2.5
+1649,Bernardo Matte,687,2014,58,2.5
+1650,Bernd Freier,687,2014,57,2.5
+1651,Charles Dunstone,687,2014,50,2.5
+1652,Chey Tae-Won,687,2014,53,2.5
+1653,Clive Calder,687,2014,67,2.5
+1654,Dan Friedkin,687,2014,49,2.5
+1655,Dan Gertler,687,2014,40,2.5
+1656,David Cheriton,687,2014,62,2.5
+1657,Eduardo Belmont Anderson,687,2014,68,2.5
+1658,Eliodoro Matte,687,2014,68,2.5
+1659,Ennio Doris,687,2014,73,2.5
+1660,Folorunsho Alakija,687,2014,63,2.5
+1661,Francisco Jose Riberas Mera,687,2014,49,2.5
+1662,H. Wayne Huizenga,687,2014,76,2.5
+1663,Henry Hillman,687,2014,95,2.5
+1664,Hubert Burda,687,2014,74,2.5
+1665,Jack Dangermond,687,2014,68,2.5
+1666,Jeff Greene,687,2014,59,2.5
+1667,"John Dorrance, III.",687,2014,70,2.5
+1668,Juan Maria Riberas Mera,687,2014,0,2.5
+1669,Juan-Miguel Villar Mir,687,2014,82,2.5
+1670,Kjell Inge Rokke,687,2014,55,2.5
+1671,Madeleine Olsson Ericksson,687,2014,69,2.5
+1672,Michael Milken,687,2014,67,2.5
+1673,Min Kao,687,2014,65,2.5
+1674,Mochtar Riady,687,2014,84,2.5
+1675,Neil Bluhm,687,2014,76,2.5
+1676,Pang Kang,687,2014,58,2.5
+1677,Patricia Matte,687,2014,70,2.5
+1678,Philip Niarchos,687,2014,60,2.5
+1679,Phillip Ruffin,687,2014,78,2.5
+1680,Shigenobu Nagamori,687,2014,69,2.5
+1681,Siegfried Meister,687,2014,76,2.5
+1682,Stefan Olsson,687,2014,65,2.5
+1683,Teddy Sagi,687,2014,42,2.5
+1684,Timothy Headington,687,2014,63,2.5
+1685,Valery Kogan,687,2014,62,2.5
+1686,Warren Stephens,687,2014,57,2.5
+1687,William Erbey,687,2014,64,2.5
+1688,William Fung,687,2014,65,2.5
+1689,"William Wrigley, Jr.",687,2014,50,2.5
+1690,Abdullah Al Rajhi,731,2014,0,2.4
+1691,Andrej Babis,731,2014,59,2.4
+1692,Barry Diller,731,2014,72,2.4
+1693,Bharat Desai,731,2014,61,2.4
+1694,Brijmohan Lall Munjal,731,2014,90,2.4
+1695,Carlos Ardila Lulle,731,2014,83,2.4
+1696,Edwin Leong,731,2014,62,2.4
+1697,Esther Grether,731,2014,78,2.4
+1698,George Argyros,731,2014,77,2.4
+1699,Henry Fong Yun Wah,731,2014,89,2.4
+1700,Ingeburg Herz,731,2014,92,2.4
+1701,Juan Abello,731,2014,72,2.4
+1702,Ken Fisher,731,2014,63,2.4
+1703,Kevin Plank,731,2014,41,2.4
+1704,Kwek Leng Beng,731,2014,73,2.4
+1705,Lawrence Stroll,731,2014,54,2.4
+1706,Leszek Czarnecki,731,2014,52,2.4
+1707,Liang Yunchao,731,2014,45,2.4
+1708,Louis Le Duff,731,2014,67,2.4
+1709,Ma Jianrong,731,2014,50,2.4
+1710,Maja Oeri,731,2014,59,2.4
+1711,Manuel Jove,731,2014,72,2.4
+1712,Mortimer Zuckerman,731,2014,76,2.4
+1713,Onsi Sawiris,731,2014,84,2.4
+1714,Pankaj Patel,731,2014,60,2.4
+1715,Richard Desmond,731,2014,62,2.4
+1716,Rodney Lewis,731,2014,60,2.4
+1717,Saleh Kamel,731,2014,72,2.4
+1718,Sebastian Pinera,731,2014,64,2.4
+1719,Silas Chou,731,2014,67,2.4
+1720,Stephen Lansdown,731,2014,61,2.4
+1721,Tilman Fertitta,731,2014,56,2.4
+1722,Peter Lim,763,2014,60,2.4
+1723,Alexander Mamut,764,2014,54,2.3
+1724,Alexander Ponomarenko,764,2014,49,2.3
+1725,Alexander Skorobogatko,764,2014,46,2.3
+1726,"Bernard Saul, II.",764,2014,81,2.3
+1727,Bill Gross,764,2014,69,2.3
+1728,Cai Kui,764,2014,51,2.3
+1729,Caprotti Bernardo,764,2014,88,2.3
+1730,Chen Fashu,764,2014,53,2.3
+1731,"Clemmie Spangler, Jr.",764,2014,81,2.3
+1732,David Murdock,764,2014,90,2.3
+1733,George Ty,764,2014,81,2.3
+1734,Henadiy Boholyubov,764,2014,52,2.3
+1735,Indu Jain,764,2014,77,2.3
+1736,James France,764,2014,69,2.3
+1737,Jean (Gigi) Pritzker,764,2014,52,2.3
+1738,Jean Claude Gandur,764,2014,65,2.3
+1739,Jia Yueting,764,2014,41,2.3
+1740,John Whittaker,764,2014,71,2.3
+1741,Julio Ponce,764,2014,68,2.3
+1742,Kenneth Langone,764,2014,78,2.3
+1743,Kuok Khoon Hong,764,2014,64,2.3
+1744,Mario Moretti Polegato,764,2014,61,2.3
+1745,Michal Solowow,764,2014,51,2.3
+1746,Penny Pritzker,764,2014,54,2.3
+1747,Richard Marriott,764,2014,75,2.3
+1748,Robert Miller CA,764,2014,68,2.3
+1749,Stanley Hubbard,764,2014,80,2.3
+1750,Victor Fung,764,2014,68,2.3
+1751,Wang Changtian,764,2014,48,2.3
+1752,Xu Jingren,764,2014,69,2.3
+1753,Xue Xiangdong,764,2014,55,2.3
+1754,Youssef Mansour,764,2014,68,2.3
+1755,Andreas Halvorsen,796,2014,52,2.2
+1756,Bahaa Hariri,796,2014,47,2.2
+1757,"Bill Marriott, Jr.",796,2014,81,2.2
+1758,Bulat Utemuratov,796,2014,56,2.2
+1759,Chip Wilson,796,2014,57,2.2
+1760,Daniel Loeb,796,2014,52,2.2
+1761,Giuseppe De'Longhi,796,2014,74,2.2
+1762,Jack Dorsey,796,2014,37,2.2
+1763,Jean Coutu,796,2014,86,2.2
+1764,Jiang Rensheng,796,2014,60,2.2
+1765,Joe Mansueto,796,2014,57,2.2
+1766,John de Mol,796,2014,58,2.2
+1767,Kalanithi Maran,796,2014,48,2.2
+1768,Lindsay Fox,796,2014,76,2.2
+1769,Manuel Lao Hernandez,796,2014,69,2.2
+1770,Mark Coombs,796,2014,53,2.2
+1771,Martin Haefner,796,2014,60,2.2
+1772,Martin Naughton,796,2014,74,2.2
+1773,Moise Safra,796,2014,79,2.2
+1774,Nadhmi Auchi,796,2014,76,2.2
+1775,Naruatsu Baba,796,2014,36,2.2
+1776,Peter Thiel,796,2014,46,2.2
+1777,Regina de Camargo Pires Oliveira Dias,796,2014,60,2.2
+1778,Renata de Camargo Nascimento,796,2014,63,2.2
+1779,Richard Peery,796,2014,75,2.2
+1780,Romesh T. Wadhwani,796,2014,66,2.2
+1781,Rossana Camargo de Arruda Botelho,796,2014,64,2.2
+1782,Semahat Arsel,796,2014,85,2.2
+1783,Stephen Bisciotti,796,2014,53,2.2
+1784,Ted Turner,796,2014,75,2.2
+1785,Tor Peterson,796,2014,49,2.2
+1786,Goh Cheng Liang,827,2014,0,2.2
+1787,Alexander Dzhaparidze,828,2014,58,2.1
+1788,Alexander Knaster,828,2014,55,2.1
+1789,Alicia Koplowitz,828,2014,59,2.1
+1790,Antonio Luiz Seabra,828,2014,71,2.1
+1791,B. Wayne Hughes,828,2014,80,2.1
+1792,Charles Bronfman,828,2014,82,2.1
+1793,David Hains,828,2014,83,2.1
+1794,David Penaloza Sandoval,828,2014,67,2.1
+1795,Edward Bass,828,2014,69,2.1
+1796,Ferit Sahenk,828,2014,49,2.1
+1797,Gerald J. Ford,828,2014,69,2.1
+1798,Helena Revoredo,828,2014,67,2.1
+1799,Howard Schultz,828,2014,60,2.1
+1800,Igor Makarov,828,2014,51,2.1
+1801,Ihor Kolomoyskyy,828,2014,51,2.1
+1802,James Coulter,828,2014,54,2.1
+1803,Jerry Yang,828,2014,45,2.1
+1804,Johnelle Hunt,828,2014,82,2.1
+1805,Lee Bass,828,2014,57,2.1
+1806,Liu Zhongtian,828,2014,50,2.1
+1807,Malvinder and Shivinder Singh,828,2014,0,2.1
+1808,Michael Jaharis,828,2014,85,2.1
+1809,Mustafa Rahmi Koc,828,2014,83,2.1
+1810,N. Murray Edwards,828,2014,54,2.1
+1811,Raj Kumar & Kishin RK,828,2014,59,2.1
+1812,Reinfried Pohl,828,2014,85,2.1
+1813,Richard Schulze,828,2014,73,2.1
+1814,Sandro Veronesi,828,2014,54,2.1
+1815,"Stephen Mandel, Jr.",828,2014,57,2.1
+1816,Sukanto Tanoto,828,2014,64,2.1
+1817,Sylvia Stroher,828,2014,58,2.1
+1818,T.Y. Tsai,828,2014,0,2.1
+1819,Taizo Son,828,2014,0,2.1
+1820,Thomas Bruch,828,2014,63,2.1
+1821,Tom Golisano,828,2014,72,2.1
+1822,Vincent Lo,828,2014,65,2.1
+1823,Zhang Li,828,2014,61,2.1
+1824,Zhou Hongyi,828,2014,43,2.1
+1825,Zhu Gongshan,828,2014,56,2.1
+1826,Herbert Simon,868,2014,79,2.1
+1827,Alec Gores,869,2014,60,2.0
+1828,Alexei Ananyev,869,2014,49,2.0
+1829,Arne Wilhelmsen,869,2014,83,2.0
+1830,Bachtiar Karim,869,2014,57,2.0
+1831,Benjamin de Rothschild,869,2014,50,2.0
+1832,Bennett Dorrance,869,2014,68,2.0
+1833,Brad Kelley,869,2014,57,2.0
+1834,Bruce Karsh,869,2014,58,2.0
+1835,Cai Dongqing,869,2014,44,2.0
+1836,Carl Bennet,869,2014,62,2.0
+1837,Carlo Fidani,869,2014,59,2.0
+1838,Carlos Hank Rhon,869,2014,66,2.0
+1839,Catherine Lozick,869,2014,69,2.0
+1840,Chanchai Ruayrungruang,869,2014,60,2.0
+1841,Clayton Mathile,869,2014,73,2.0
+1842,Daniel Pritzker,869,2014,55,2.0
+1843,Dean White,869,2014,90,2.0
+1844,Dermot Desmond,869,2014,63,2.0
+1845,Dmitry Ananyev,869,2014,45,2.0
+1846,Dmitry Pumpyansky,869,2014,49,2.0
+1847,"Drayton McLane, Jr.",869,2014,77,2.0
+1848,Erwin Franz Mueller,869,2014,81,2.0
+1849,Fiona Geminder,869,2014,49,2.0
+1850,Florentino Perez,869,2014,66,2.0
+1851,Georg von Opel,869,2014,47,2.0
+1852,Gordon Getty,869,2014,80,2.0
+1853,Guy Laliberte,869,2014,54,2.0
+1854,Heloise Waislitz,869,2014,51,2.0
+1855,Howard Marks,869,2014,67,2.0
+1856,James Dinan,869,2014,54,2.0
+1857,Jim Breyer,869,2014,52,2.0
+1858,John Farber,869,2014,88,2.0
+1859,John Pritzker,869,2014,61,2.0
+1860,Jorge Perez,869,2014,64,2.0
+1861,Jose and Francisco Jose Calderon Rojas,869,2014,59,2.0
+1862,Li Sze Lim,869,2014,57,2.0
+1863,Matt & Dan Walsh,869,2014,0,2.0
+1864,Meg Whitman,869,2014,57,2.0
+1865,Nicolas Berggruen,869,2014,52,2.0
+1866,Nicolas Puech,869,2014,71,2.0
+1867,Noam Gottesman,869,2014,52,2.0
+1868,Or Wai Sheun,869,2014,62,2.0
+1869,Robert Fisher,869,2014,60,2.0
+1870,Robert McNair,869,2014,77,2.0
+1871,Ron Baron,869,2014,70,2.0
+1872,Roustam Tariko,869,2014,51,2.0
+1873,Sam Goi,869,2014,65,2.0
+1874,Shen Guojun,869,2014,51,2.0
+1875,Shin Chang-Jae,869,2014,60,2.0
+1876,Sit Kwong Lam,869,2014,46,2.0
+1877,Sun Weijie,869,2014,50,2.0
+1878,Thomas Siebel,869,2014,61,2.0
+1879,Tsai Hong-tu,869,2014,61,2.0
+1880,Vyacheslav Kantor,869,2014,60,2.0
+1881,Wang Wenxue,869,2014,46,2.0
+1882,William Fisher,869,2014,56,2.0
+1883,Alex Beard,925,2014,46,2.0
+1884,Henry Samueli,925,2014,59,2.0
+1885,Nevaldo Rocha,925,2014,84,2.0
+1886,S. Daniel Abraham,925,2014,89,2.0
+1887,Shin Dong-Bin,925,2014,59,2.0
+1888,Wu Yiling,925,2014,64,2.0
+1889,Alvaro Saieh Bendeck,931,2014,64,1.9
+1890,Andrei Klyamko,931,2014,52,1.9
+1891,Andrei Kozitsyn,931,2014,53,1.9
+1892,Bob Parsons,931,2014,63,1.9
+1893,Chandru Raheja,931,2014,73,1.9
+1894,Daniel Roullier,931,2014,77,1.9
+1895,David Gottesman,931,2014,87,1.9
+1896,Donald Sterling,931,2014,78,1.9
+1897,Dulce Pugliese de Godoy Bueno,931,2014,66,1.9
+1898,Eduardo Eurnekian,931,2014,81,1.9
+1899,Fayez Sarofim,931,2014,85,1.9
+1900,Fritz Draexlmaier,931,2014,0,1.9
+1901,Fu Meicheng,931,2014,56,1.9
+1902,Hans Melchers,931,2014,75,1.9
+1903,Ian Wood,931,2014,71,1.9
+1904,John Arrillaga,931,2014,76,1.9
+1905,John Kapoor,931,2014,70,1.9
+1906,Jonathan Harmsworth,931,2014,46,1.9
+1907,Lev Kvetnoi,931,2014,48,1.9
+1908,Liao Long-Shing,931,2014,0,1.9
+1909,Lirio Parisotto,931,2014,60,1.9
+1910,Michael Klein,931,2014,63,1.9
+1911,Mikhail Balakin,931,2014,52,1.9
+1912,Miloud Chaabi,931,2014,85,1.9
+1913,Mo Tianquan,931,2014,50,1.9
+1914,Mohamed Al Fayed,931,2014,85,1.9
+1915,Norman Braman,931,2014,81,1.9
+1916,Pat Stryker,931,2014,57,1.9
+1917,Richard Li,931,2014,47,1.9
+1918,Robert Duggan,931,2014,69,1.9
+1919,Ronald Southern,931,2014,83,1.9
+1920,Rubens Ometto Silveira Mello,931,2014,64,1.9
+1921,Sid Bass,931,2014,71,1.9
+1922,Song Zuowen,931,2014,66,1.9
+1923,Subhash Chandra,931,2014,63,1.9
+1924,Sulaiman Al Rajhi,931,2014,94,1.9
+1925,Tseng Shin-Yi,931,2014,86,1.9
+1926,Wei Ing-Chou,931,2014,61,1.9
+1927,Wei Yin-Chun,931,2014,57,1.9
+1928,Wei Ying-Chiao,931,2014,59,1.9
+1929,Wei Yin-Heng,931,2014,55,1.9
+1930,Wolfgang Leitner,931,2014,60,1.9
+1931,Ajay Kalsi,973,2014,53,1.9
+1932,Ayman Asfari,973,2014,55,1.9
+1933,Diego Della Valle,973,2014,60,1.9
+1934,Hans-Werner Hector,973,2014,74,1.9
+1935,Kavitark Ram Shriram,973,2014,57,1.9
+1936,Li Shufu,973,2014,50,1.9
+1937,Li Zhongchu,973,2014,50,1.9
+1938,Marc Ladreit de Lacharriere,973,2014,73,1.9
+1939,Mitchell Goldhar,973,2014,52,1.9
+1940,Rahul Bajaj,973,2014,75,1.9
+1941,Stewart Rahr,973,2014,68,1.9
+1942,Sun Piaoyang,973,2014,55,1.9
+1943,Suna Kirac,973,2014,72,1.9
+1944,Tahir family,973,2014,61,1.9
+1945,Theodore Rachmat,973,2014,70,1.9
+1946,Aras Agalarov,988,2014,58,1.8
+1947,Arthur Blank,988,2014,71,1.8
+1948,Carlos Rodriguez-Pastor,988,2014,54,1.8
+1949,Chao Teng-Hsiung,988,2014,70,1.8
+1950,Che Fengsheng,988,2014,51,1.8
+1951,Chen Jinxia,988,2014,45,1.8
+1952,Chu Lam Yiu,988,2014,44,1.8
+1953,Craig McCaw,988,2014,64,1.8
+1954,David Chow,988,2014,64,1.8
+1955,Dinara Kulibaeva,988,2014,46,1.8
+1956,Elisabeth Badinter,988,2014,70,1.8
+1957,Eric Lefkofsky,988,2014,44,1.8
+1958,Filiz Sahenk,988,2014,47,1.8
+1959,Gary Magness,988,2014,60,1.8
+1960,Gil Shwed,988,2014,46,1.8
+1961,Glen Taylor,988,2014,72,1.8
+1962,Glenn Dubin,988,2014,56,1.8
+1963,Guenther Lehmann,988,2014,0,1.8
+1964,"H. Ross Perot, Jr.",988,2014,55,1.8
+1965,Irwin Jacobs,988,2014,80,1.8
+1966,Jaime Botin,988,2014,77,1.8
+1967,Jennifer Pritzker,988,2014,62,1.8
+1968,Jonathan Nelson,988,2014,57,1.8
+1969,Kenneth Feld,988,2014,65,1.8
+1970,Lim Oon Kuin,988,2014,70,1.8
+1971,Linda Pritzker,988,2014,60,1.8
+1972,Liu Baolin,988,2014,60,1.8
+1973,Lutz Mario Helmig,988,2014,67,1.8
+1974,M.A. Yusuff Ali,988,2014,58,1.8
+1975,Neal Patterson,988,2014,64,1.8
+1976,Nikolai Tsvetkov,988,2014,53,1.8
+1977,Polys Haji-Ioannou,988,2014,55,1.8
+1978,Ravi Pillai,988,2014,60,1.8
+1979,Rishad Naoroji,988,2014,62,1.8
+1980,Roberto Hernandez Ramirez,988,2014,71,1.8
+1981,Ronald Wanek,988,2014,72,1.8
+1982,Stanley Perron,988,2014,91,1.8
+1983,Sunny Varkey,988,2014,56,1.8
+1984,Susan Hirt Hagen,988,2014,77,1.8
+1985,Thomas Meyer,988,2014,0,1.8
+1986,Timur Kulibaev,988,2014,47,1.8
+1987,Tiong Hiew King,988,2014,78,1.8
+1988,Tsai Cheng-da,988,2014,0,1.8
+1989,Wu Guangming,988,2014,52,1.8
+1990,Yasseen Mansour,988,2014,52,1.8
+1991,Yuri Milner,988,2014,52,1.8
+1992,Zhang Zhirong,988,2014,45,1.8
+1993,Zhu Xingliang,988,2014,54,1.8
+1994,Alain Bouchard,1036,2014,64,1.8
+1995,Bill Adderley,1036,2014,66,1.8
+1996,David Nahmad,1036,2014,66,1.8
+1997,Gerald Schwartz,1036,2014,72,1.8
+1998,Jayme Garfinkel,1036,2014,67,1.8
+1999,John Brown,1036,2014,79,1.8
+2000,Judy Love,1036,2014,0,1.8
+2001,Lynda Resnick,1036,2014,0,1.8
+2002,Marian Ilitch,1036,2014,0,1.8
+2003,Michael Hintze,1036,2014,60,1.8
+2004,Michael Ilitch,1036,2014,0,1.8
+2005,Murdaya Poo,1036,2014,73,1.8
+2006,Prasert Prasarttong-Osoth,1036,2014,80,1.8
+2007,Shin Dong-Joo,1036,2014,60,1.8
+2008,Stewart Resnick,1036,2014,0,1.8
+2009,Tom Love,1036,2014,0,1.8
+2010,Alexander Machkevich,1046,2014,60,1.7
+2011,Alijan Ibragimov,1046,2014,60,1.7
+2012,Andrei Kosogov,1046,2014,52,1.7
+2013,Arkady Volozh,1046,2014,50,1.7
+2014,Boris Rotenberg,1046,2014,57,1.7
+2015,Chung Mong-Joon,1046,2014,62,1.7
+2016,Gabriel Escarrer,1046,2014,79,1.7
+2017,Gavril Yushvaev,1046,2014,56,1.7
+2018,Huang Bingwen,1046,2014,60,1.7
+2019,Huang Li,1046,2014,50,1.7
+2020,Huang Wei,1046,2014,54,1.7
+2021,Igor Altushkin,1046,2014,43,1.7
+2022,Jeffrey Lorberbaum,1046,2014,59,1.7
+2023,Joop van den Ende,1046,2014,72,1.7
+2024,Katsumi Tada,1046,2014,68,1.7
+2025,Kerry Stokes,1046,2014,73,1.7
+2026,Lee Joong-Keun,1046,2014,73,1.7
+2027,Lee Myung-Hee,1046,2014,70,1.7
+2028,Lin Xiucheng,1046,2014,58,1.7
+2029,Marc Lasry,1046,2014,53,1.7
+2030,Martua Sitorus,1046,2014,54,1.7
+2031,N.R. Narayana Murthy,1046,2014,67,1.7
+2032,Patokh Chodiev,1046,2014,61,1.7
+2033,Peter Peterson,1046,2014,87,1.7
+2034,Pier Luigi Loro Piana,1046,2014,62,1.7
+2035,Ralph Sonnenberg,1046,2014,79,1.7
+2036,Rolf Gerling,1046,2014,59,1.7
+2037,Shao Genhuo,1046,2014,48,1.7
+2038,Thomas Secunda,1046,2014,59,1.7
+2039,Tony Tan Caktiong,1046,2014,61,1.7
+2040,Wang Junmin,1046,2014,45,1.7
+2041,Zhang Hongwei,1046,2014,59,1.7
+2042,Alfred Oetker,1078,2014,47,1.7
+2043,August Oetker,1078,2014,69,1.7
+2044,Bergit Douglas,1078,2014,67,1.7
+2045,Carl Ferdinand Oetker,1078,2014,41,1.7
+2046,Christian Oetker,1078,2014,65,1.7
+2047,Domenico Dolce,1078,2014,55,1.7
+2048,Edgar de Picciotto,1078,2014,84,1.7
+2049,Hoang Kieu,1078,2014,69,1.7
+2050,Julia Oetker,1078,2014,35,1.7
+2051,Nelson Peltz,1078,2014,71,1.7
+2052,Richard Oetker,1078,2014,63,1.7
+2053,Rosely Schweizer,1078,2014,73,1.7
+2054,Stefano Gabbana,1078,2014,51,1.7
+2055,Vladimir Kim,1078,2014,53,1.7
+2056,Achmad Hamami,1092,2014,83,1.6
+2057,Alan Howard,1092,2014,50,1.6
+2058,Albert von Thurn und Taxis,1092,2014,30,1.6
+2059,Alfred James Clark,1092,2014,86,1.6
+2060,Andrea Della Valle,1092,2014,48,1.6
+2061,Cao Kejian,1092,2014,51,1.6
+2062,"Chase Coleman, III.",1092,2014,38,1.6
+2063,D. Leopoldo Del Pino y Calvo-Sotelo,1092,2014,52,1.6
+2064,David Einhorn,1092,2014,45,1.6
+2065,Denise Coates,1092,2014,46,1.6
+2066,Don Hankey,1092,2014,70,1.6
+2067,Gao Dekang,1092,2014,62,1.6
+2068,Gary Burrell,1092,2014,76,1.6
+2069,Gu Wei,1092,2014,49,1.6
+2070,Hamilton James,1092,2014,62,1.6
+2071,Huang Shaowu,1092,2014,43,1.6
+2072,James Irsay,1092,2014,54,1.6
+2073,"Jim Justice, II.",1092,2014,62,1.6
+2074,"Joe Jamail, Jr.",1092,2014,88,1.6
+2075,Jon Stryker,1092,2014,55,1.6
+2076,Joyce Raley Teel,1092,2014,83,1.6
+2077,Julio Bozano,1092,2014,78,1.6
+2078,Karel Komarek,1092,2014,44,1.6
+2079,Lee Jay-Hyun,1092,2014,53,1.6
+2080,Liang Xinjun,1092,2014,46,1.6
+2081,Louis Bacon,1092,2014,55,1.6
+2082,Mangal Prabhat Lodha,1092,2014,58,1.6
+2083,Mario Gabelli,1092,2014,71,1.6
+2084,Mehmet Sinan Tara,1092,2014,55,1.6
+2085,Patrick Ryan,1092,2014,76,1.6
+2086,Pham Nhat Vuong,1092,2014,45,1.6
+2087,Phillip Ragon,1092,2014,64,1.6
+2088,Pierre Papillaud,1092,2014,78,1.6
+2089,Pollyanna Chu,1092,2014,56,1.6
+2090,Ray Davis,1092,2014,72,1.6
+2091,Richard Elman,1092,2014,74,1.6
+2092,Robert Miller UK,1092,2014,76,1.6
+2093,Roberto Angelini Rossi,1092,2014,65,1.6
+2094,Scott Cook,1092,2014,61,1.6
+2095,Simonpietro Salini,1092,2014,81,1.6
+2096,Stephen Jarislowsky,1092,2014,88,1.6
+2097,Suhon Lin,1092,2014,86,1.6
+2098,Thaksin Shinawatra,1092,2014,64,1.6
+2099,Tsai Ming-Kai,1092,2014,63,1.6
+2100,Venugopal Dhoot,1092,2014,62,1.6
+2101,Vincent Tan,1092,2014,62,1.6
+2102,Wen Jianping,1092,2014,52,1.6
+2103,Wong Luen Hei,1092,2014,52,1.6
+2104,Yoshikazu Tanaka,1092,2014,37,1.6
+2105,Yuri Gushchin,1092,2014,69,1.6
+2106,Zhou Chengjian,1092,2014,48,1.6
+2107,Ahsen Ozokur,1143,2014,63,1.6
+2108,Ali Ibrahim Agaoglu,1143,2014,60,1.6
+2109,Ana Maria Brescia Cafferata,1143,2014,89,1.6
+2110,Ana Maria Marcondes Penido Sant'Anna,1143,2014,58,1.6
+2111,Benu Gopal Bangur,1143,2014,82,1.6
+2112,Cesar Mata Pires,1143,2014,0,1.6
+2113,Christoph Henkel,1143,2014,0,1.6
+2114,Manuel Moroun,1143,2014,86,1.6
+2115,Rosa Brescia Cafferata,1143,2014,87,1.6
+2116,Thomas Steyer,1143,2014,56,1.6
+2117,Wong Kwong Yu,1143,2014,44,1.6
+2118,Alexander Frolov,1154,2014,49,1.5
+2119,Alexandre Grendene Bartelle,1154,2014,64,1.5
+2120,Alfredo Harp Helu,1154,2014,69,1.5
+2121,Andrei Bokarev,1154,2014,47,1.5
+2122,Bulent Eczacibasi,1154,2014,64,1.5
+2123,Chang Yung Fa,1154,2014,86,1.5
+2124,Chen Tianqiao,1154,2014,41,1.5
+2125,Chen Yung-Tai,1154,2014,78,1.5
+2126,Dan Wilks,1154,2014,57,1.5
+2127,Erika Pohl-Stroher,1154,2014,95,1.5
+2128,Ezra Nahmad,1154,2014,68,1.5
+2129,Farris Wilks,1154,2014,62,1.5
+2130,Faruk Eczacibasi,1154,2014,59,1.5
+2131,Francesco Gaetano Caltagirone,1154,2014,70,1.5
+2132,Gary Michelson,1154,2014,65,1.5
+2133,Gregorio Perez Companc,1154,2014,78,1.5
+2134,He Qiaonu,1154,2014,48,1.5
+2135,Horst Brandstaetter,1154,2014,80,1.5
+2136,Huang Shih Tsai,1154,2014,62,1.5
+2137,Jimmy Haslam,1154,2014,60,1.5
+2138,John Henry,1154,2014,64,1.5
+2139,Jose Llado Fernandez-Urrutia,1154,2014,79,1.5
+2140,Juan Carlos Escotet,1154,2014,54,1.5
+2141,Koo Bon-Moo,1154,2014,69,1.5
+2142,Lam Kong,1154,2014,49,1.5
+2143,Maria Del Pino y Calvo-Sotelo,1154,2014,57,1.5
+2144,Marie-Jeanne Meyer,1154,2014,72,1.5
+2145,Mark Stevens,1154,2014,54,1.5
+2146,Massimo Moratti,1154,2014,68,1.5
+2147,Mehmet Karamehmet,1154,2014,69,1.5
+2148,Mehmet Nazif Gunal,1154,2014,66,1.5
+2149,Monique Louis-Dreyfus,1154,2014,74,1.5
+2150,Murali Divi,1154,2014,62,1.5
+2151,Paul Singer,1154,2014,69,1.5
+2152,Ravi Jaipuria,1154,2014,59,1.5
+2153,Richard Hayne,1154,2014,66,1.5
+2154,Robert Coyiuto Jr,1154,2014,61,1.5
+2155,Saad Hariri,1154,2014,43,1.5
+2156,Senapathy Gopalakrishnan,1154,2014,58,1.5
+2157,Sergio Lins Andrade,1154,2014,66,1.5
+2158,Thomas Lee,1154,2014,69,1.5
+2159,Tom Benson,1154,2014,86,1.5
+2160,Vadim Novinsky,1154,2014,50,1.5
+2161,Vichai Srivaddhanaprabha,1154,2014,56,1.5
+2162,Victor Gradin,1154,2014,81,1.5
+2163,Vinod Khosla,1154,2014,59,1.5
+2164,Wen Yibo,1154,2014,48,1.5
+2165,Yuriy Kosiuk,1154,2014,45,1.5
+2166,Zhu Yicai,1154,2014,49,1.5
+2167,Ajay Piramal,1203,2014,58,1.5
+2168,Isidoro Alvarez,1203,2014,79,1.5
+2169,Richard Scaife,1203,2014,81,1.5
+2170,Sergei Katsiev,1203,2014,56,1.5
+2171,William Ackman,1203,2014,47,1.5
+2172,Wilma Tisch,1203,2014,86,1.5
+2173,Zhang Changhong,1203,2014,55,1.5
+2174,Alan Gerry,1210,2014,84,1.4
+2175,Albert Blokker,1210,2014,68,1.4
+2176,Alberto Cortina,1210,2014,68,1.4
+2177,Anatoly Lomakin,1210,2014,61,1.4
+2178,Aziz Akhannouch,1210,2014,53,1.4
+2179,Billy Joe (Red) McCombs,1210,2014,86,1.4
+2180,Chen Jianhua,1210,2014,43,1.4
+2181,Christopher Cline,1210,2014,56,1.4
+2182,Christopher Goldsbury,1210,2014,71,1.4
+2183,Clement Fayat,1210,2014,82,1.4
+2184,David Walentas,1210,2014,75,1.4
+2185,Dmitry Kamenshchik,1210,2014,45,1.4
+2186,Dmitry Mazepin,1210,2014,45,1.4
+2187,Edmund Ansin,1210,2014,77,1.4
+2188,Els Blokker,1210,2014,66,1.4
+2189,Farkhad Akhmedov,1210,2014,58,1.4
+2190,Francesco Saverio Salini,1210,2014,78,1.4
+2191,Gian Marco Moratti,1210,2014,77,1.4
+2192,Gleb Fetisov,1210,2014,47,1.4
+2193,Hamdi Ulukaya,1210,2014,42,1.4
+2194,Hong Ra-Hee,1210,2014,68,1.4
+2195,J. Joe Ricketts,1210,2014,72,1.4
+2196,James Clark,1210,2014,69,1.4
+2197,Joao Alves de Queiroz Filho,1210,2014,61,1.4
+2198,Jonathan Gray,1210,2014,44,1.4
+2199,Kagemasa Kozuki,1210,2014,73,1.4
+2200,Larry Robbins,1210,2014,44,1.4
+2201,Lei Jufang,1210,2014,61,1.4
+2202,Len Ainsworth,1210,2014,90,1.4
+2203,Lina Maria Aguiar,1210,2014,76,1.4
+2204,Luis Enrique Yarur Rey,1210,2014,63,1.4
+2205,Marius Nacht,1210,2014,48,1.4
+2206,Max Michel Suberville,1210,2014,81,1.4
+2207,Michael Ashcroft,1210,2014,68,1.4
+2208,Michel Chalhoub,1210,2014,82,1.4
+2209,Nandan Nilekani,1210,2014,58,1.4
+2210,"Nicholas Pritzker, II.",1210,2014,70,1.4
+2211,Nicola Bulgari,1210,2014,73,1.4
+2212,Oleg Tinkov,1210,2014,46,1.4
+2213,Paolo Bulgari,1210,2014,76,1.4
+2214,Peter Gilgan,1210,2014,63,1.4
+2215,Peter Unger,1210,2014,69,1.4
+2216,Petter Stordalen,1210,2014,51,1.4
+2217,Pyotr Kondrashev,1210,2014,64,1.4
+2218,Radovan Vitek,1210,2014,42,1.4
+2219,Ranjan Pai,1210,2014,41,1.4
+2220,Remo Ruffini,1210,2014,52,1.4
+2221,Richard Chilton Jr,1210,2014,55,1.4
+2222,"Richard Yuengling, Jr.",1210,2014,70,1.4
+2223,Roman Avdeev,1210,2014,46,1.4
+2224,Shlomo Eliahu,1210,2014,78,1.4
+2225,Takao Yasuda,1210,2014,64,1.4
+2226,Todd Wagner,1210,2014,53,1.4
+2227,Vladimir Iorich,1210,2014,55,1.4
+2228,Vladimir Scherbakov,1210,2014,64,1.4
+2229,Wang Jing,1210,2014,41,1.4
+2230,Wang Kunxiao,1210,2014,44,1.4
+2231,Xiong Xuqiang,1210,2014,57,1.4
+2232,Yoshiko Mori,1210,2014,73,1.4
+2233,Yuri Kovalchuk,1210,2014,62,1.4
+2234,Andrew Cherng,1270,2014,0,1.4
+2235,Anne Gittinger,1270,2014,78,1.4
+2236,"Anton Kathrein, Jr.",1270,2014,29,1.4
+2237,Henry Swieca,1270,2014,56,1.4
+2238,Jonathan Oringer,1270,2014,39,1.4
+2239,Kazuo Okada,1270,2014,71,1.4
+2240,Keeree Kanjanapas,1270,2014,64,1.4
+2241,Lee Hwa-Kyung,1270,2014,58,1.4
+2242,Lin Li,1270,2014,50,1.4
+2243,Mark Vadon,1270,2014,43,1.4
+2244,Oleg Boyko,1270,2014,49,1.4
+2245,Patricia Angelini Rossi,1270,2014,59,1.4
+2246,Paul Foster,1270,2014,56,1.4
+2247,Peggy Cherng,1270,2014,0,1.4
+2248,Roger Penske,1270,2014,77,1.4
+2249,"William Ford, Sr.",1270,2014,88,1.4
+2250,Akio Nitori,1284,2014,70,1.3
+2251,Alain Taravella,1284,2014,66,1.3
+2252,Allan Gray,1284,2014,76,1.3
+2253,Allan Wong,1284,2014,64,1.3
+2254,Andrei Molchanov,1284,2014,42,1.3
+2255,Aneel Bhusri,1284,2014,48,1.3
+2256,Arturo Moreno,1284,2014,67,1.3
+2257,Baba Kalyani,1284,2014,65,1.3
+2258,Bruce Cheng,1284,2014,78,1.3
+2259,Bruce Nordstrom,1284,2014,80,1.3
+2260,Brunello Cucinelli,1284,2014,60,1.3
+2261,C. Dean Metropoulos,1284,2014,67,1.3
+2262,Carlos Francisco Ribeiro Jereissati,1284,2014,67,1.3
+2263,Charles Simonyi,1284,2014,66,1.3
+2264,Charles Zegar,1284,2014,66,1.3
+2265,Charlotte Colket Weber,1284,2014,71,1.3
+2266,Chen Bang,1284,2014,48,1.3
+2267,Chu Mang Yee,1284,2014,54,1.3
+2268,Ciputra,1284,2014,82,1.3
+2269,David Booth,1284,2014,68,1.3
+2270,David Sainsbury,1284,2014,73,1.3
+2271,Desmond Sacco,1284,2014,71,1.3
+2272,Du Jiangtao,1284,2014,44,1.3
+2273,Edward Stack,1284,2014,59,1.3
+2274,Eggon da Silva,1284,2014,85,1.3
+2275,Elie Horn,1284,2014,70,1.3
+2276,Fawzi Al-Kharafi,1284,2014,0,1.3
+2277,"Frank Fertitta, III.",1284,2014,52,1.3
+2278,Frank Stronach,1284,2014,81,1.3
+2279,George Joseph,1284,2014,92,1.3
+2280,Gernot Langes-Swarovski,1284,2014,70,1.3
+2281,"Henry Nicholas, III.",1284,2014,54,1.3
+2282,Jacques Saade,1284,2014,77,1.3
+2283,James Leininger,1284,2014,68,1.3
+2284,Jassim Al-Kharafi,1284,2014,0,1.3
+2285,Jiang Zhaobai,1284,2014,50,1.3
+2286,Jorge Moll Filho,1284,2014,69,1.3
+2287,Jose Isaac Peres,1284,2014,73,1.3
+2288,Kenny Troutt,1284,2014,66,1.3
+2289,Koos Bekker,1284,2014,61,1.3
+2290,Lee Boo-Jin,1284,2014,43,1.3
+2291,Lee Man Tat,1284,2014,85,1.3
+2292,Lev Leviev,1284,2014,58,1.3
+2293,Lilian Werninghaus,1284,2014,79,1.3
+2294,Lily Safra,1284,2014,76,1.3
+2295,Lorenzo Fertitta,1284,2014,45,1.3
+2296,Low Tuck Kwong,1284,2014,65,1.3
+2297,Michael Price,1284,2014,61,1.3
+2298,Mohannad Al-Kharafi,1284,2014,0,1.3
+2299,Mubariz Gurbanoglu,1284,2014,45,1.3
+2300,Mustafa Latif Topbas,1284,2014,69,1.3
+2301,Ni Zhaoxing,1284,2014,58,1.3
+2302,Nicholas Woodman,1284,2014,38,1.3
+2303,Perenna Kei,1284,2014,24,1.3
+2304,Peter Sperling,1284,2014,54,1.3
+2305,Petro Poroshenko,1284,2014,48,1.3
+2306,Reinold Geiger,1284,2014,66,1.3
+2307,Rufino Vigil Gonzalez,1284,2014,65,1.3
+2308,Samih Sawiris,1284,2014,57,1.3
+2309,Shaul Shani,1284,2014,59,1.3
+2310,Sidney Kimmel,1284,2014,86,1.3
+2311,Stephen Saad,1284,2014,49,1.3
+2312,Sun Pingfan,1284,2014,44,1.3
+2313,Surin Upatkoon,1284,2014,64,1.3
+2314,Thomas Sandell,1284,2014,53,1.3
+2315,Vadim Moshkovich,1284,2014,46,1.3
+2316,Vladimir Gruzdev,1284,2014,47,1.3
+2317,Walter Frey,1284,2014,70,1.3
+2318,Wang Wenjing,1284,2014,49,1.3
+2319,Werner Voigt,1284,2014,84,1.3
+2320,Zelimkhan Mutsoev,1284,2014,54,1.3
+2321,Kim Jung-Ju,1355,2014,46,1.3
+2322,Allan Slaight,1356,2014,81,1.3
+2323,Anas Sefrioui,1356,2014,56,1.3
+2324,Ashwin Dani,1356,2014,71,1.3
+2325,Bassam Alghanim,1356,2014,62,1.3
+2326,Chen Lip Keong,1356,2014,66,1.3
+2327,Chung Yong-Jin,1356,2014,45,1.3
+2328,"Daniel Harrison, III.",1356,2014,66,1.3
+2329,David Harding,1356,2014,52,1.3
+2330,Huang Yi,1356,2014,52,1.3
+2331,Hubert d'Ornano,1356,2014,87,1.3
+2332,Konstantin Grigorishin,1356,2014,48,1.3
+2333,Kutayba Alghanim,1356,2014,68,1.3
+2334,Seth Klarman,1356,2014,56,1.3
+2335,Soichiro Fukutake,1356,2014,68,1.3
+2336,Wei Shaojun,1356,2014,51,1.3
+2337,Yusaku Maezawa,1356,2014,38,1.3
+2338,Abdulsamad Rabiu,1372,2014,54,1.2
+2339,Ahmet Nazif Zorlu,1372,2014,69,1.2
+2340,Alberto Bombassei,1372,2014,73,1.2
+2341,Alberto Roemmers,1372,2014,56,1.2
+2342,Alexander Putilov,1372,2014,61,1.2
+2343,Andrei Filatov,1372,2014,42,1.2
+2344,Asok Kumar Hiranandani,1372,2014,59,1.2
+2345,Ayman Hariri,1372,2014,35,1.2
+2346,Benedicta Chamberlain,1372,2014,70,1.2
+2347,Brian Roberts,1372,2014,54,1.2
+2348,Carol Jenkins Barnett,1372,2014,57,1.2
+2349,Cho Tak Wong,1372,2014,67,1.2
+2350,Cho Yang-Rai,1372,2014,76,1.2
+2351,Claude Dauphin,1372,2014,63,1.2
+2352,Dan Snyder,1372,2014,49,1.2
+2353,David Yakobashvili,1372,2014,57,1.2
+2354,Denise York,1372,2014,63,1.2
+2355,Donald Hall,1372,2014,85,1.2
+2356,Dorothea Steinbruch,1372,2014,0,1.2
+2357,Douglas Hsu,1372,2014,71,1.2
+2358,Drew Houston,1372,2014,30,1.2
+2359,Edwin Soeryadjaya,1372,2014,65,1.2
+2360,Fahd Hariri,1372,2014,33,1.2
+2361,Gabe Newell,1372,2014,51,1.2
+2362,Gerry Harvey,1372,2014,74,1.2
+2363,Gilles Martin,1372,2014,50,1.2
+2364,Guilherme Peirao Leal,1372,2014,64,1.2
+2365,Hary Tanoesoedibjo,1372,2014,48,1.2
+2366,Huang Wen Tsai,1372,2014,60,1.2
+2367,Ioan Niculae,1372,2014,59,1.2
+2368,Jacky Xu,1372,2014,0,1.2
+2369,Jacques Merceron-Vicat,1372,2014,75,1.2
+2370,James Ratcliffe,1372,2014,61,1.2
+2371,Jeff Rothschild,1372,2014,59,1.2
+2372,Koh Wee Meng,1372,2014,50,1.2
+2373,Konstantin Nikolaev,1372,2014,42,1.2
+2374,Kostyantin Zhevago,1372,2014,40,1.2
+2375,Lang Walker,1372,2014,68,1.2
+2376,Len Buckeridge,1372,2014,77,1.2
+2377,Leonid Simanovsky,1372,2014,64,1.2
+2378,Li Li,1372,2014,50,1.2
+2379,Lia Maria Aguiar,1372,2014,76,1.2
+2380,Liu Xuejing,1372,2014,63,1.2
+2381,Maria Ines de Lafuente Lacroze,1372,2014,69,1.2
+2382,Mark Dixon,1372,2014,55,1.2
+2383,Michael Krasny,1372,2014,60,1.2
+2384,Mofatraj Munot,1372,2014,69,1.2
+2385,Mohammed Al Barwani,1372,2014,62,1.2
+2386,Mokhzani Mahathir,1372,2014,53,1.2
+2387,Mori Arkin,1372,2014,61,1.2
+2388,Nan Cunhui,1372,2014,50,1.2
+2389,Nikita Mishin,1372,2014,42,1.2
+2390,Nikolai Maximov,1372,2014,56,1.2
+2391,Nirav Modi,1372,2014,43,1.2
+2392,Rakesh Jhunjhunwala,1372,2014,53,1.2
+2393,Ron Sim,1372,2014,56,1.2
+2394,Ronald Joyce,1372,2014,83,1.2
+2395,Rubens Menin Teixeira de Souza,1372,2014,57,1.2
+2396,Steve Case,1372,2014,55,1.2
+2397,Suat Gunsel,1372,2014,61,1.2
+2398,Tian Ming,1372,2014,60,1.2
+2399,Tu Jianhua,1372,2014,50,1.2
+2400,Vincent McMahon,1372,2014,68,1.2
+2401,William Macaulay,1372,2014,68,1.2
+2402,Wong Man Li,1372,2014,49,1.2
+2403,Xiu Li Hawken,1372,2014,51,1.2
+2404,Yu Minhong,1372,2014,52,1.2
+2405,Zhang Zhongneng,1372,2014,50,1.2
+2406,Zhong Sheng Jian,1372,2014,56,1.2
+2407,Ziyaudin Magomedov,1372,2014,45,1.2
+2408,Alexei Bogachev,1442,2014,43,1.2
+2409,Alexei Semin,1442,2014,46,1.2
+2410,Alfredo Egydio Arruda Villela Filho,1442,2014,44,1.2
+2411,Andrei Kuzyaev,1442,2014,48,1.2
+2412,Brij Bhushan Singal,1442,2014,77,1.2
+2413,Daisy Igel,1442,2014,86,1.2
+2414,Danny Tan Chee Sing,1442,2014,58,1.2
+2415,Eduardo Hochschild,1442,2014,50,1.2
+2416,Fernando Roig,1442,2014,66,1.2
+2417,Jacob Stolt-Nielsen,1442,2014,82,1.2
+2418,Jane Lauder,1442,2014,41,1.2
+2419,John Edson,1442,2014,81,1.2
+2420,Lee Hae-Jin,1442,2014,46,1.2
+2421,Lee Seo-Hyun,1442,2014,40,1.2
+2422,Liu Zhenguo,1442,2014,49,1.2
+2423,Ma Xingtian,1442,2014,44,1.2
+2424,Max Turnauer,1442,2014,78,1.2
+2425,Megdet Rahimkulov,1442,2014,68,1.2
+2426,Miao Shouliang,1442,2014,59,1.2
+2427,Mitchell Jacobson,1442,2014,62,1.2
+2428,Qi Xiangdong,1442,2014,43,1.2
+2429,Thongma Vijitpongpun,1442,2014,55,1.2
+2430,Ye Cheng,1442,2014,52,1.2
+2431,Aerin Lauder Zinterhofer,1465,2014,44,1.1
+2432,Ahmet Calik,1465,2014,56,1.1
+2433,Airat Shaimiev,1465,2014,51,1.1
+2434,Albert Shigaboutdinov,1465,2014,59,1.1
+2435,Albert Yeung,1465,2014,70,1.1
+2436,Alexander Rovt,1465,2014,61,1.1
+2437,Alexander Spanos,1465,2014,90,1.1
+2438,Alfred Mann,1465,2014,88,1.1
+2439,Aloke Lohia,1465,2014,55,1.1
+2440,Ana Lucia de Mattos Barretto Villela,1465,2014,40,1.1
+2441,Anatoly Sedykh,1465,2014,49,1.1
+2442,Andrei Rappoport,1465,2014,50,1.1
+2443,Aydin Dogan,1465,2014,77,1.1
+2444,Binod Chaudhary,1465,2014,58,1.1
+2445,Charles Brandes,1465,2014,71,1.1
+2446,Charles Munger,1465,2014,90,1.1
+2447,Choo Chong Ngen,1465,2014,62,1.1
+2448,Daniel Hirschfeld,1465,2014,0,1.1
+2449,Darwin Deason,1465,2014,73,1.1
+2450,Edir Macedo,1465,2014,69,1.1
+2451,Evgeny (Eugene) Shvidler,1465,2014,49,1.1
+2452,Fang Wei,1465,2014,40,1.1
+2453,Goh Peng Ooi,1465,2014,59,1.1
+2454,Gordon Wu,1465,2014,79,1.1
+2455,Hajime Satomi,1465,2014,72,1.1
+2456,Harjo Sutanto,1465,2014,87,1.1
+2457,Henry Engelhardt,1465,2014,56,1.1
+2458,Hu Kaijun,1465,2014,52,1.1
+2459,Huang Zhenda,1465,2014,66,1.1
+2460,Ilkka Herlin,1465,2014,55,1.1
+2461,Ilona Herlin,1465,2014,49,1.1
+2462,Isaac Larian,1465,2014,59,1.1
+2463,Jean Burelle,1465,2014,75,1.1
+2464,Jiang Wei,1465,2014,52,1.1
+2465,Jon Huntsman,1465,2014,76,1.1
+2466,Jose Maria Aristrain,1465,2014,51,1.1
+2467,Jose Mendes Nogueira,1465,2014,86,1.1
+2468,Joseph Grendys,1465,2014,52,1.1
+2469,Juan Fernando Belmont Anderson,1465,2014,70,1.1
+2470,Ke Xiping,1465,2014,53,1.1
+2471,Koo Bon-Neung,1465,2014,64,1.1
+2472,Lachhman Das Mittal,1465,2014,83,1.1
+2473,Laurent Burelle,1465,2014,64,1.1
+2474,Liu Zhenfeng,1465,2014,52,1.1
+2475,Luo Fei,1465,2014,0,1.1
+2476,Marcel Adams,1465,2014,93,1.1
+2477,Mark Pincus,1465,2014,48,1.1
+2478,Michael Steinhardt,1465,2014,73,1.1
+2479,Miriam Blocher,1465,2014,39,1.1
+2480,Mohammed Ibrahim,1465,2014,67,1.1
+2481,Niklas Herlin,1465,2014,50,1.1
+2482,Nikolai Sarkisov,1465,2014,45,1.1
+2483,Nobutada Saji,1465,2014,68,1.1
+2484,Park Hyeon-Joo,1465,2014,55,1.1
+2485,PNC Menon,1465,2014,65,1.1
+2486,Que Wenbin,1465,2014,50,1.1
+2487,Radik Shaimiev,1465,2014,49,1.1
+2488,Ray Irani,1465,2014,79,1.1
+2489,Robert Citrone,1465,2014,49,1.1
+2490,Robert Ell,1465,2014,69,1.1
+2491,Robert Piccinini,1465,2014,72,1.1
+2492,Rustem Sulteev,1465,2014,60,1.1
+2493,Sergei Kislov,1465,2014,53,1.1
+2494,Sergei Sarkisov,1465,2014,54,1.1
+2495,Shen Wenrong,1465,2014,68,1.1
+2496,Solomon Lew,1465,2014,68,1.1
+2497,Stewart Horejsi,1465,2014,76,1.1
+2498,Sudhir Ruparelia,1465,2014,58,1.1
+2499,Thomas Straumann,1465,2014,50,1.1
+2500,Timothy Boyle,1465,2014,64,1.1
+2501,Vito Rodriguez Rodriguez,1465,2014,75,1.1
+2502,Yan Zhi,1465,2014,41,1.1
+2503,Yusuf Hamied,1465,2014,77,1.1
+2504,Zhang Guiping,1465,2014,62,1.1
+2505,Alan Rydge,1540,2014,61,1.1
+2506,Chen Miaolin,1540,2014,61,1.1
+2507,Chen Zemin,1540,2014,71,1.1
+2508,Cheung Yan,1540,2014,57,1.1
+2509,Christopher Hohn,1540,2014,47,1.1
+2510,Deniz Sahenk,1540,2014,68,1.1
+2511,Douglas Perkins,1540,2014,0,1.1
+2512,Giancarlo Franceso Civita,1540,2014,0,1.1
+2513,Hubert Palfinger,1540,2014,72,1.1
+2514,Jose Ermirio de Moraes Neto,1540,2014,61,1.1
+2515,Jose Roberto Ermirio de Moraes,1540,2014,56,1.1
+2516,K Dinesh,1540,2014,59,1.1
+2517,K. Rai Sahi,1540,2014,67,1.1
+2518,Kim Taek-Jin,1540,2014,0,1.1
+2519,Liu Gexin,1540,2014,62,1.1
+2520,Liu Ming Chung,1540,2014,51,1.1
+2521,Mary Perkins,1540,2014,0,1.1
+2522,Neide Helena de Moraes,1540,2014,59,1.1
+2523,Roberta Anamaria Civita,1540,2014,0,1.1
+2524,Ryoichi Jinnai,1540,2014,87,1.1
+2525,Sheryl Sandberg,1540,2014,44,1.1
+2526,Sun Hongbin,1540,2014,51,1.1
+2527,Victor Civita Neto,1540,2014,0,1.1
+2528,Vikram Lal,1540,2014,71,1.1
+2529,Wang Laichun,1540,2014,46,1.1
+2530,Wang Laisheng,1540,2014,49,1.1
+2531,Yao Wenbin,1540,2014,43,1.1
+2532,Zadik Bino,1540,2014,70,1.1
+2533,Alberto Alcocer,1565,2014,71,1.0
+2534,Alexander Vik,1565,2014,59,1.0
+2535,An Kang,1565,2014,65,1.0
+2536,Andrea Reimann-Ciardelli,1565,2014,0,1.0
+2537,Andrew Gotianun,1565,2014,86,1.0
+2538,Angela Bennett,1565,2014,69,1.0
+2539,Anne Beaufour,1565,2014,50,1.0
+2540,B.R. Shetty,1565,2014,72,1.0
+2541,Bent Jensen,1565,2014,62,1.0
+2542,Boris Mints,1565,2014,55,1.0
+2543,Brian Higgins,1565,2014,49,1.0
+2544,C. James Koch,1565,2014,64,1.0
+2545,Carlos Martins,1565,2014,57,1.0
+2546,Chang Pyung-Soon,1565,2014,63,1.0
+2547,Christopher Burch,1565,2014,60,1.0
+2548,Dariusz Milek,1565,2014,46,1.0
+2549,Ding Shijia,1565,2014,50,1.0
+2550,Ding Shizhong,1565,2014,43,1.0
+2551,Dmitry Korzhev,1565,2014,50,1.0
+2552,Dmitry Troitsky,1565,2014,49,1.0
+2553,Elena Baturina,1565,2014,50,1.0
+2554,Enrique Banuelos,1565,2014,48,1.0
+2555,Feng Hailiang,1565,2014,53,1.0
+2556,Fred Chang,1565,2014,57,1.0
+2557,Fu Kwan,1565,2014,56,1.0
+2558,Graham Kirkham,1565,2014,69,1.0
+2559,Harindarpal Banga,1565,2014,63,1.0
+2560,Henri Beaufour,1565,2014,48,1.0
+2561,Horst Julius Pudwill,1565,2014,69,1.0
+2562,Huo Qinghua,1565,2014,52,1.0
+2563,Ina Chan,1565,2014,60,1.0
+2564,Jeanine Dick,1565,2014,77,1.0
+2565,Jim Thompson,1565,2014,74,1.0
+2566,Jitendra Virwani,1565,2014,48,1.0
+2567,John Morgridge,1565,2014,80,1.0
+2568,John Van Lieshout,1565,2014,68,1.0
+2569,Jorge Rodriguez Rodriguez,1565,2014,68,1.0
+2570,Kenneth Tuchman,1565,2014,54,1.0
+2571,Lam Fong Ngo,1565,2014,0,1.0
+2572,Leon Charney,1565,2014,72,1.0
+2573,Leonard Schleifer,1565,2014,61,1.0
+2574,Li Denghai,1565,2014,64,1.0
+2575,Li Shuirong,1565,2014,57,1.0
+2576,Lim Hariyanto Wijaya Sarwono,1565,2014,86,1.0
+2577,Lin Ming-Hsiung,1565,2014,64,1.0
+2578,Liu Xiaomeng,1565,2014,59,1.0
+2579,Michael Kors,1565,2014,54,1.0
+2580,Michael Lynch,1565,2014,49,1.0
+2581,Mikhail Abyzov,1565,2014,41,1.0
+2582,Monika Schoeller,1565,2014,75,1.0
+2583,Morris Kahn,1565,2014,84,1.0
+2584,Murat Vargi,1565,2014,66,1.0
+2585,Nerijus Numavicius,1565,2014,46,1.0
+2586,O. Francis Biondi,1565,2014,49,1.0
+2587,Pavel Tykac,1565,2014,49,1.0
+2588,Philip Falcone,1565,2014,51,1.0
+2589,Richard Chang,1565,2014,67,1.0
+2590,Robert Ingham,1565,2014,82,1.0
+2591,Rostam Azizi,1565,2014,49,1.0
+2592,Ryan Kavanaugh,1565,2014,39,1.0
+2593,Sara Blakely,1565,2014,43,1.0
+2594,Seo Jung-Jin,1565,2014,56,1.0
+2595,Sergei Petrov,1565,2014,59,1.0
+2596,Sergei Tsikalyuk,1565,2014,55,1.0
+2597,Serhiy Tihipko,1565,2014,54,1.0
+2598,Shoji Uehara,1565,2014,86,1.0
+2599,Stefan von Holtzbrinck,1565,2014,50,1.0
+2600,T.S. Kalyanaraman,1565,2014,66,1.0
+2601,Thomas Bailey,1565,2014,77,1.0
+2602,Thomas Kaplan,1565,2014,51,1.0
+2603,Tory Burch,1565,2014,47,1.0
+2604,Vivek Chaand Sehgal,1565,2014,57,1.0
+2605,Wang Jianfeng,1565,2014,44,1.0
+2606,Wang Muqing,1565,2014,63,1.0
+2607,Wang Yong,1565,2014,63,1.0
+2608,"William Moncrief, Jr.",1565,2014,93,1.0
+2609,Wu Chung-Yi,1565,2014,55,1.0
+2610,Wu Xiong,1565,2014,0,1.0
+2611,Yang Keng,1565,2014,53,1.0
+2612,Zdenek Bakala,1565,2014,53,1.0
+2613,Zhu Wenchen,1565,2014,48,1.0
